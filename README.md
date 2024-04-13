@@ -1,16 +1,6 @@
-# demopro
+# Flutter Demo Project on Nixos
+For some reason the apps that were created using the new version of flutter which is avaliable in nixpkgs failed to build apk on nixos.
+This project has patched the necessary build script to make it work.
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## How to user it.
+Just clone the repo and change the names as per your requirement.
